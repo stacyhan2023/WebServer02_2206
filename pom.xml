@@ -9,8 +9,12 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>V1</module>
+
         <module>v7</module>
+        <module>V8</module>
+        <module>V9</module>
+        <module>v10</module>
+        <module>V11</module>
     </modules>
 
     <properties>
