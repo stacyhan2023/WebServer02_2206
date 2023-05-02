@@ -10,7 +10,17 @@
         <module name="V8" />
         <module name="V9" />
         <module name="v10" />
+        <module name="V21" />
+        <module name="V20" />
+        <module name="v12" />
         <module name="V11" />
+        <module name="V14" />
+        <module name="V13" />
+        <module name="V16" />
+        <module name="V15" />
+        <module name="V18" />
+        <module name="V17" />
+        <module name="V19" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
